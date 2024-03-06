@@ -14,7 +14,7 @@ Bu repo, Istanbul Data Science Academy'de aldığım "Data Science Bootcamp" eğ
 
 - **Week 3: Veri Görselleştirme | Matplotlib **
   - 3.hafta, Matplotlib kütüphanesini öğrendik.
-    - [Matlotlib dosyasına git ✨](./Week3/matplotlib.py)
+    - [Matlotlib dosyasına git ✨](./Week3/matplot.py)
   
 
 
