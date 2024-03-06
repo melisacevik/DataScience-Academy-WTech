@@ -9,9 +9,14 @@ Bu repo, Istanbul Data Science Academy'de aldığım "Data Science Bootcamp" eğ
 
 - **Week 2: NumPy ve Pandas**
   - 2.hafta, NumPy ve Pandas kütüphanelerini öğrendik.
-    - [NumPy dosyasına git](./Week2/numpy.py)
-    - [Pandas dosyasına git](./Week2/pandas.py)
+    - [NumPy dosyasına git ✨](./Week2/numpy.py)
+    - [Pandas dosyasına git ✨](./Week2/pandas.py)
 
-- **Week 3: Makine Öğrenmesine Giriş**
-  - Bu hafta, makine öğrenmesine giriş yapılacaktır. Detaylar için takipte kalın!
+- **Week 3: Veri Görselleştirme | Matplotlib **
+  - 3.hafta, Matplotlib kütüphanesini öğrendik.
+    - [Matlotlib dosyasına git ✨](./Week3/matplotlib.py)
+  
+
+
+Detaylar için takipte kalın!
 
